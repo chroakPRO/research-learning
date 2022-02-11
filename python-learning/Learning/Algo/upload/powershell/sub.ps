@@ -1,0 +1,11 @@
+$server_list = Import-Csv -Path 
+
+foreach ($server in $server_list) {
+    #echo $server.name
+    #echo $server.path
+    $x = "OU="
+
+    $var = -join($x,$server.name,",",$server.path)
+    New-ADOrganizationalUnit -Name "Users" -Path $var
+
+}

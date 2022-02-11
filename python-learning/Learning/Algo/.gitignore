@@ -1,0 +1,7 @@
+./config.py
+config.py
+/config.py/
+__pycache__
+_pycache_
+.ipynb_checkpoints
+

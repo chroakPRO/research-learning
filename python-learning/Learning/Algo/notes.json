@@ -1,0 +1,53 @@
+{
+  "Step-One": "Skapa 2 VLAN genom routern.",
+  "Step-Two": {
+    "Info": "Skapa VLAN i switchen också sen tagga dom i rätt portar i switchen, genom mikrotik.",
+    "Important": "OBS: Lägg på dom switchen om det är mikrotik."
+    },
+  "Step-Three": {  
+   "H1Info": "Skapa Virtuella maskiner genom Vmware ESXi:",
+   "HOST1": "Windows 10 64bit (LCWIN1073)",
+   "H1Settings": {
+        "0": "VLAN 1073",
+        "1": "No Based Security",
+        "2": "4 CPU, 4 GB Mem",
+        "3": " Network Adapter - VLAN 10673",
+        "4": "Vol1"
+  },
+  "H1Info2": "Workstation, Test dator som representerar vanliga användare" },
+  "Fileserver": {
+    "HOST2": "Filserver (Filsrv1072)",
+    "H2Settings": {
+        "0": "VLAN 1073",
+        "1": "No Based Security",
+        "2": "4 CPU, 4 GB Mem",
+        "3": " Network Adapter - VLAN 10673",
+        "4": "Vol1"
+  }
+    },
+  "Domain-Controllers": [
+    {
+      "id": "DC01",
+      "namn": "LCDC1072"
+    },
+    {
+      "type": "DC02",
+      "namn": "LCDC1073"
+    }
+  ],
+  "Scripts": {
+    "link": "https://github.com/Bazhful/exam-prep"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "212 555-1234"
+    },
+    {
+      "type": "office",
+      "number": "646 555-4567"
+    }
+  ],
+  "children": [],
+  "spouse": null
+}
