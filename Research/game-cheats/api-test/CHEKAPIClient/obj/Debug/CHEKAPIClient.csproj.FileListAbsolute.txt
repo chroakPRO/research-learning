@@ -1,0 +1,11 @@
+C:\Users\unet\Documents\GitHub\research-learning\Research\game-cheats\api-test\CHEKAPIClient\bin\Debug\api_test.exe
+C:\Users\unet\Documents\GitHub\research-learning\Research\game-cheats\api-test\CHEKAPIClient\bin\Debug\api_test.pdb
+C:\Users\unet\Documents\GitHub\research-learning\Research\game-cheats\api-test\CHEKAPIClient\bin\Debug\MalShare.NET.dll
+C:\Users\unet\Documents\GitHub\research-learning\Research\game-cheats\api-test\CHEKAPIClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\unet\Documents\GitHub\research-learning\Research\game-cheats\api-test\CHEKAPIClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\unet\Documents\GitHub\research-learning\Research\game-cheats\api-test\CHEKAPIClient\obj\Debug\CHEKAPIClient.csproj.AssemblyReference.cache
+C:\Users\unet\Documents\GitHub\research-learning\Research\game-cheats\api-test\CHEKAPIClient\obj\Debug\CHEKAPIClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\unet\Documents\GitHub\research-learning\Research\game-cheats\api-test\CHEKAPIClient\obj\Debug\CHEKAPIClient.csproj.CoreCompileInputs.cache
+C:\Users\unet\Documents\GitHub\research-learning\Research\game-cheats\api-test\CHEKAPIClient\obj\Debug\CHEKAPIClient.csproj.CopyComplete
+C:\Users\unet\Documents\GitHub\research-learning\Research\game-cheats\api-test\CHEKAPIClient\obj\Debug\api_test.exe
+C:\Users\unet\Documents\GitHub\research-learning\Research\game-cheats\api-test\CHEKAPIClient\obj\Debug\api_test.pdb

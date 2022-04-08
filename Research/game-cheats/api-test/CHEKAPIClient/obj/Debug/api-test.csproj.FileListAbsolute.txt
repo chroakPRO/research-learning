@@ -1,0 +1,3 @@
+C:\Users\unet\Documents\GitHub\research-learning\Research\game-cheats\api-test\api-test\obj\Debug\api-test.csproj.AssemblyReference.cache
+C:\Users\unet\Documents\GitHub\research-learning\Research\game-cheats\api-test\api-test\obj\Debug\api-test.csproj.SuggestedBindingRedirects.cache
+C:\Users\unet\Documents\GitHub\research-learning\Research\game-cheats\api-test\api-test\obj\Debug\api-test.csproj.CoreCompileInputs.cache
