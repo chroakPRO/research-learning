@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "HhbbPsFBcXfgbYHH5nv61U0yWbl+vOTmpIWtmjJw4ZFf+lf8o6qVdQOCEaHPt58Q6Dd0dXUZIfTlzTpFf5bamA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\unet\\Documents\\GitHub\\research-learning\\Research\\game-cheats\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\unet\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\6.0.3\\microsoft.aspnetcore.authentication.negotiate.6.0.3.nupkg.sha512",
+    "C:\\Users\\unet\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.3\\microsoft.aspnetcore.connections.abstractions.6.0.3.nupkg.sha512",
+    "C:\\Users\\unet\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\unet\\.nuget\\packages\\microsoft.extensions.features\\6.0.3\\microsoft.extensions.features.6.0.3.nupkg.sha512",
+    "C:\\Users\\unet\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\unet\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\unet\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\unet\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\unet\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\unet\\.nuget\\packages\\system.directoryservices.protocols\\6.0.1\\system.directoryservices.protocols.6.0.1.nupkg.sha512",
+    "C:\\Users\\unet\\.nuget\\packages\\system.io.pipelines\\6.0.2\\system.io.pipelines.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
