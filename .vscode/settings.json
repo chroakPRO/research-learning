@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "Rosalind-problems-main/FibonacciNumbers",
+        "Rosalind-problems-main/ComputingGCContent",
+        "advent-of-code-2021/Archive/2019/day#1"
+    ],
+    "jupyter.jupyterServerType": "local"
+}
